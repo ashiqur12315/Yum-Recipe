@@ -1,0 +1,102 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Lemon Herb Roasted Chicken",
+      "recipe_image": "https://i.ibb.co/vJ8ZVrL/1.jpg",
+      "short_description": "A flavorful and juicy roasted chicken seasoned with lemon and herbs.",
+      "ingredients": [
+        "1 whole chicken (about 1.5 kg)",
+        "2 lemons",
+        "4 cloves garlic",
+        "2 tablespoons olive oil",
+        "1 tablespoon fresh rosemary",
+        "1 tablespoon fresh thyme",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "30 minutes",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://i.ibb.co/hWJ3TRk/best-easy-spaghetti-carbonara-193147-2.webp",
+      "short_description": "A classic Italian pasta dish with creamy sauce, crispy bacon, and Parmesan cheese.",
+      "ingredients": [
+        "400 g spaghetti",
+        "200 g pancetta or bacon",
+        "4 eggs",
+        "1 cup grated Parmesan cheese",
+        "4 cloves garlic",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "20 minutes",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Stir-Fry",
+      "recipe_image": "https://i.ibb.co/pd430QH/Asian-stirfried-vegetables.jpg",
+      "short_description": "A colorful and nutritious stir-fry packed with a variety of fresh vegetables.",
+      "ingredients": [
+        "200 g broccoli florets",
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "1 carrot",
+        "100 g snap peas",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil"
+      ],
+      "preparing_time": "25 minutes",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://i.ibb.co/sbRwtfH/Dinner-Party-Traditional-Caprese-1-1200x800-1.jpg",
+      "short_description": "A refreshing salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil leaves.",
+      "ingredients": [
+        "2 large tomatoes",
+        "200 g fresh mozzarella cheese",
+        "Handful of fresh basil leaves",
+        "2 tablespoons balsamic vinegar",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "10 minutes",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Grilled Salmon with Asparagus",
+      "recipe_image": "https://i.ibb.co/LkW2snk/chargrilled-salmon-with-asparagus-in-lime-vinaigrette-59335-1.webp",
+      "short_description": "Tender grilled salmon fillets served with roasted asparagus spears.",
+      "ingredients": [
+        "4 salmon fillets (about 150 g each)",
+        "300 g asparagus spears",
+        "2 tablespoons lemon juice",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "30 minutes",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Banana Walnut Bread",
+      "recipe_image": "https://i.ibb.co/HC2Qc8G/banana-bread-with-walnuts.jpg",
+      "short_description": "A moist and flavorful banana bread studded with crunchy walnuts.",
+      "ingredients": [
+        "3 ripe bananas",
+        "150 g walnuts, chopped",
+        "200 g all-purpose flour",
+        "100 g granulated sugar",
+        "2 eggs",
+        "1/2 cup melted butter",
+        "1 teaspoon vanilla extract"
+      ],
+      "preparing_time": "1 hour 10 minutes",
+      "calories": "220 calories"
+    }
+  ]
+  
